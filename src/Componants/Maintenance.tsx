@@ -90,7 +90,7 @@ const Maintenance: React.FC = () => {
 
       {/* Footer */}
       <p className="text-xs text-gray-500 mt-12">
-        © {new Date().getFullYear()} vergevantage.com. All rights reserved.
+        © {new Date().getFullYear()} vergevantage.com. @All rights reserved.
       </p>
     </div>
   );
